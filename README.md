@@ -9,5 +9,8 @@
 
 <h2>Features:</h2>
 
+- Predicts closing prices using Tensors
+- Suggests trades
+
 -----------------------------------------------------
 <h2>Version 1.0 Summer 2025</h2>
